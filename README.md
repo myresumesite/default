@@ -27,6 +27,8 @@ MyResume is built to OPERATE FOR FREE using FREE Cloud Based Services
 - Twitter Cards meta
 - XML Sitemaps
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/myresumesite/default&utm_source=github&utm_medium=nextstarter-cs&utm_campaign=devex-cs)
+
 ## ⚙ Access to Netlify CMS
 
 - Goto app.netlify.com > select your website from the list
