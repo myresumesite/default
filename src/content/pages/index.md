@@ -1,14 +1,14 @@
 ---
 slug: /
 tagline:  A tagline or short sentence description 
-featuredImage: /assets/challenger.webp
+featuredImage: 
 youtuber: "https://youtu.be/ESGJ42zshL8"
 youtuber2: 
 audiostart: "1"
 audioend: "5000"
 audiotitle: "The Cure - The Forest"
 secondaryImage: /assets/default-user.webp
-underlayImage: /assets/IMG_1019.webp
+underlayImage: 
 profText: Descriptive paragraph describing your talents and hightlighting your skills and overall experience in the field.
  <br /><br /> Another descriptive paragraph highlighting what your page is about.
 addressText: Anywhere, World
